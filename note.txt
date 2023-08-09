@@ -1,0 +1,4 @@
+cors used for cross origin requests
+dotenv used for secure environment variables
+express is a backend framework
+nodemon keep application running when we are changing in application
